@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Documentos\Proyectos de programacion\C#\Circulo\Circulo\Circulo\bin\Debug\net6.0\Circulo.exe
+C:\Users\andre\OneDrive\Documentos\Proyectos de programacion\C#\Circulo\Circulo\Circulo\bin\Debug\net6.0\Circulo.deps.json
+C:\Users\andre\OneDrive\Documentos\Proyectos de programacion\C#\Circulo\Circulo\Circulo\bin\Debug\net6.0\Circulo.runtimeconfig.json
+C:\Users\andre\OneDrive\Documentos\Proyectos de programacion\C#\Circulo\Circulo\Circulo\bin\Debug\net6.0\Circulo.dll
+C:\Users\andre\OneDrive\Documentos\Proyectos de programacion\C#\Circulo\Circulo\Circulo\bin\Debug\net6.0\Circulo.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos de programacion\C#\Circulo\Circulo\Circulo\obj\Debug\net6.0\Circulo.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\Proyectos de programacion\C#\Circulo\Circulo\Circulo\obj\Debug\net6.0\Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documentos\Proyectos de programacion\C#\Circulo\Circulo\Circulo\obj\Debug\net6.0\Circulo.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\Proyectos de programacion\C#\Circulo\Circulo\Circulo\obj\Debug\net6.0\Circulo.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\Proyectos de programacion\C#\Circulo\Circulo\Circulo\obj\Debug\net6.0\Circulo.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\Proyectos de programacion\C#\Circulo\Circulo\Circulo\obj\Debug\net6.0\Circulo.dll
+C:\Users\andre\OneDrive\Documentos\Proyectos de programacion\C#\Circulo\Circulo\Circulo\obj\Debug\net6.0\refint\Circulo.dll
+C:\Users\andre\OneDrive\Documentos\Proyectos de programacion\C#\Circulo\Circulo\Circulo\obj\Debug\net6.0\Circulo.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos de programacion\C#\Circulo\Circulo\Circulo\obj\Debug\net6.0\Circulo.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Documentos\Proyectos de programacion\C#\Circulo\Circulo\Circulo\obj\Debug\net6.0\ref\Circulo.dll
